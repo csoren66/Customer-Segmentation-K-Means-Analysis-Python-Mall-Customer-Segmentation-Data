@@ -1,1 +1,1 @@
-# Customer-Segmentation-K-Means-Analysis-Python-Mall-Customer-Segmentation-Data
+# Customer-Segmentation-K-Means-Analysis
